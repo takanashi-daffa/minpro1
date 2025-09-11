@@ -1,2 +1,2 @@
-**minpro 1**\
+*minpro 1*\
 Nama : Daffa Arkhabista, nim :2509116018, Sistem informasi A
